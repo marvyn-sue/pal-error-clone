@@ -6,13 +6,12 @@ body {
 }
 
 .container {
-  max-width: 600px;
+/*   max-width: 600px; */
   margin: auto;
 }
 
 .logo {
-  width: 200px;
-  margin-bottom: 30px;
+  height: 700px;
 }
 
 h1 {
